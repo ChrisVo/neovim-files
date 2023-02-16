@@ -1,3 +1,3 @@
 # Neovim Files
 
-These are my neovim config files.
+These are my neovim config files 💻
